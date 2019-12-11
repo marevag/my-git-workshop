@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo $(wc -l < ~/b1-git-workshop/results/dates.csv) 'unique dates'
+echo $(wc -l < ~/b1-git-workshop/results/teeth.csv) 'unique teeth'
+2 results/summary.txt 
